@@ -1,0 +1,6 @@
+{
+  "name": "Generator RPP PAI SMA - Format Sekolah Semesta",
+  "description": "Aplikasi penyusun Rencana Pembelajaran (Lesson Plan) Pendidikan Agama Islam SMA (Grade 10-12) berstandar kurikulum Sekolah Semesta dengan diferensiasi, model 5E, dan ekspor PDF & DOCX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
